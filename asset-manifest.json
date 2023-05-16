@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/devtunes/static/css/main.deb5e994.css",
+    "main.js": "/devtunes/static/js/main.60c95337.js",
+    "static/js/787.b631a427.chunk.js": "/devtunes/static/js/787.b631a427.chunk.js",
+    "static/media/kesariya-2@2x.png": "/devtunes/static/media/kesariya-2@2x.45687e9726f6e272661a.png",
+    "static/media/union.svg": "/devtunes/static/media/union.7beddb7a391e4f3e21d3edc4b49f7896.svg",
+    "index.html": "/devtunes/index.html",
+    "static/media/vector.svg": "/devtunes/static/media/vector.03460387418ad8089a13524057492a77.svg",
+    "static/media/Vector (3).svg": "/devtunes/static/media/Vector (3).4b426272b6cd5a58e8d793a1668fb561.svg",
+    "main.deb5e994.css.map": "/devtunes/static/css/main.deb5e994.css.map",
+    "main.60c95337.js.map": "/devtunes/static/js/main.60c95337.js.map",
+    "787.b631a427.chunk.js.map": "/devtunes/static/js/787.b631a427.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deb5e994.css",
+    "static/js/main.60c95337.js"
+  ]
+}
